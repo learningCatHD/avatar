@@ -7,12 +7,16 @@ title: 王政的个人主页
 
 <div style="display: flex; align-items: center;">
 <div style="flex: 3;">
-我目前是清华大学自动化系硕士研究生，导师为[黄高教授](https://www.gaohuang.net/)。我的研究兴趣包括大语言模型、深度学习和计算机视觉，特别是在大语言模型和视觉-语言模型方面。
+我目前是清华大学自动化系硕士研究生，导师为[黄高教授](https://www.gaohuang.net/)。我的研究兴趣包括大规模并行计算，计算广告，大语言模型、计算机视觉。
 
-我于2026年获得中国石油大学(北京)信息与通信工程硕士学位。先后在[新华三集团](https://www.h3c.com/cn/)负责核心路由器 Vxlan 协议研发 、[爱奇艺](https://www.iqiyi.com/)负责爱奇虚拟机云平台、[小红书](https://www.xiaohongshu.com/)负责算法工程团队。
+我于2026年获得中国石油大学(北京)信息与通信工程硕士学位。
+先后在[新华三集团](https://www.h3c.com/cn/)负责核心路由器 Vxlan 协议研发
+[爱奇艺](https://www.iqiyi.com/)负责爱奇虚拟机云平台
+[小红书](https://www.xiaohongshu.com/)负责算法工程团队。
 
+![Static Badge](https://img.shields.io/badge/Email-z--wang22@mails.tsinghua.edu.cn-blue)
+![Static Badge](https://img.shields.io/badge/Github-learningCatHD-green)
 
-[Email](mailto:z-wang22@mails.tsinghua.edu.cn) / [Github](https://github.com/geogre) / [Linkedin](https://www.linkedin.com/in/zheng-wang-tsinghua/)
 </div>
 <div style="flex: 1; text-align: center;">
 <img src="assets/wangzheng.jpg" alt="王政" style="width: 80%; border-radius: 50%;">
